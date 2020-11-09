@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-08T15:00:09.281387Z</date>
+  <millis>1604847609281</millis>
+  <nanos>387000</nanos>
+  <sequence>0</sequence>
+  <logger>seedu.zoomaster.command.settings.SetSettingsCommand</logger>
+  <level>WARNING</level>
+  <class>seedu.zoomaster.command.settings.SetSettingsCommand</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>User input is in invalid format.</message>
+</record>
+</log>
+Nov 08, 2020 11:24:38 PM seedu.zoomaster.command.settings.SetSettingsCommand <init>
+WARNING: User input is in invalid format.
